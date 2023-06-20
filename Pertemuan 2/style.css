@@ -1,0 +1,28 @@
+.text-header{
+    text-align:center;
+    color:teal;
+    font-family: 'Lucida Sans';
+}
+
+.text-h3{
+    text-align:center;
+    color:brown;
+}
+
+.trheader{
+    background-color: orange;
+    color: white;
+}
+.tables{
+    text-align: center;
+    border-collapse: collapse;
+    color: black;
+}
+
+.table, th, td{
+    text-align: center;
+    border-collapse: collapse;
+    color: black;
+    border: 1px solid #999;
+    padding: 8px 15px;
+}

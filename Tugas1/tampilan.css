@@ -1,0 +1,28 @@
+.a{
+    text-align:center;
+    color:teal;
+    font-family: 'Lucida Sans';
+}
+
+.b{
+    text-align:center;
+    color:brown;
+}
+
+.c{
+    text-align: center; 
+    color: orange;
+}
+
+.table{
+    text-align: center; 
+    color: black; 
+    border-collapse: collapse;
+}
+
+.trheader{
+    background-color: orange;
+    text-align: center; 
+    color: white; 
+    border-collapse: collapse;
+}
